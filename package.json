@@ -1,5 +1,5 @@
 {
-  "name": "react-native-wallpaper-manager",
+  "name": "@rahuljain840/react-native-wallpaper-manager",
   "version": "0.3.16",
   "description": "set Wallpaper with react-native",
   "main": "index.js",
@@ -11,14 +11,14 @@
     "react-native-wallpaper",
     "react-native-wallpaper-manager"
   ],
-  "author": "holly liu",
+  "author": "Rahul Jain",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuhong1happy/react-native-wallpaper-manager.git"
+    "url": "git+https://github.com/rahuljain840/react-native-wallpaper-manager.git"
   },
   "bugs": {
-    "url": "https://github.com/liuhong1happy/react-native-wallpaper-manager/issues"
+    "url": "https://github.com/rahuljain840/react-native-wallpaper-manager/issues"
   },
-  "homepage": "https://github.com/liuhong1happy/react-native-wallpaper-manager#readme"
+  "homepage": "https://github.com/rahuljain840/react-native-wallpaper-manager#readme"
 }
